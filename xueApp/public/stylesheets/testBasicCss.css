@@ -1,0 +1,48 @@
+
+body{
+
+}
+
+
+.row{
+	background-color: orange;
+}
+
+.col-md-12{
+	margin-top:20px;
+	background-color: lightblue;
+}
+
+div.a1 {
+	background-color: grey;
+	padding: 1px 0 1px 0;
+}
+
+div.a2 {
+	padding: 1px 0 1px 0;
+	margin-top:20px;
+	background-color: yellow;
+
+}
+
+div.a3 {
+	height:50px;
+	background-color: green;
+
+
+}
+
+
+h1{
+	/*background-color: red;*/
+	margin-top:80px;
+}
+
+p {
+	margin: 0;
+}
+
+/*.a1:after, .a1:before {
+    display: table;
+    content: " ";
+}*/
